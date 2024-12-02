@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Policies - Your Company</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to external CSS -->
+</head>
+<body>
+    <header>
+        <h1>Our Policies</h1>
+    </header>
+
+    <section id="financing">
+        <h2>Financing</h2>
+        <p>We offer financing options for intallation as well as payment plans for the auomated pump itself.</p>
+    </section>
+
+    <section id="delivery">
+        <h2>Delivery</h2>
+        <p>We offer fast and reliable delivery services worldwide. Orders are typically shipped within 2-3 business days, and shipping times vary based on location. We provide tracking information for all orders so you can monitor your shipment.</p>
+    </section>
+
+    <section id="returns">
+        <h2>Return Policies</h2>
+        <p>If your not completely satisfied with your experience, please scan the QR code and tell us why.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 FuelBot. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
